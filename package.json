@@ -51,7 +51,7 @@
     "temporal-polyfill": "^1.0.5",
     "v-wave": "^3.1.1",
     "vue": "^3.5.43",
-    "vue-i18n": "^11.4.12",
+    "vue-i18n": "^11.4.14",
     "vue-router": "^5.3.1",
     "vue-sonner": "^2.0.9"
   },
